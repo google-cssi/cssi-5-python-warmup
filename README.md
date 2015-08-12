@@ -1,8 +1,6 @@
 # Functions, Loops, Lists, Dictionaries
 
-## Instructions:
-Fork and clone this lab, then complete the drills below.
-
+This can be used as extra practice after Day 1 of Python or as a warmup before Day 2 of Python 
 ### 1. Nested for-loops
 
 Create a new python file called `warmup1.py` and complete the following:
